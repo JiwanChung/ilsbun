@@ -16,7 +16,7 @@
     "chalk": "0.5.1"
   },
   "scripts": {
-    "start": "node ./web"
+    "start": "MONGO_URL=mongodb://jiwan:beetle27@ds031597.mlab.com:31597/ils PORT=8001 ROOT_URL=http://localhost:8001 node ./web"
   },
   "engines": {
     "node": "0.10.41",
