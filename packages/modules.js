@@ -192,6 +192,7 @@ install("session");
 install("alethes:pages");
 install("hot-code-push");
 install("lepozepo:cloudinary");
+install("tomwasd:history-polyfill");
 install("launch-screen");
 install("cfs:tempstore");
 install("cfs:http-publish");

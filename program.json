@@ -458,6 +458,9 @@
       "path": "packages/lepozepo_cloudinary.js"
     },
     {
+      "path": "packages/tomwasd_history-polyfill.js"
+    },
+    {
       "path": "packages/launch-screen.js"
     },
     {
