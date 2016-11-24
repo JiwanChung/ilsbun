@@ -4,5 +4,4 @@ console.log(process.env.PORT);
 console.log("WTF");
 process.env.ROOT_URL = 'http://localhost:8002';
 process.argv.splice(2, 0, 'program.json');
-process.chdir(require('path').join(__dirname, 'programs', 'server'));
 require('./boot.js');
